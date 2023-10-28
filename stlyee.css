@@ -1,0 +1,98 @@
+.text{
+    border:2px solid black;
+    padding:50px;
+
+}
+.ab{
+    display: flex;
+   
+   
+}
+.ab h1{
+    margin-left: 300px;
+}
+img{
+    max-width: 100px;
+    height:auto;
+    margin-right: 10px;
+
+
+}
+h5{
+    text-align: center;
+}
+
+#a{
+    text-align: center;
+}
+#b{
+    text-align: center;
+}
+.raj{
+    height:200px;
+    width: 100%;
+    display: flex;
+}
+.raj1{
+    height:200px;
+    width: 30%;
+}
+.raj1 p{
+    padding:10px;
+    font-family: arial;
+    font-size: 20px;
+}
+.raj2{
+    height:200px;
+    width: 40%;
+}
+.raj2 p{
+    padding:10px;
+    font-family: arial;
+    font-size: 15px;
+    text-align: center;
+}
+.raj3{
+    height:200px;
+    width: 30%;
+}
+.raj4{
+    height:100px;
+    width: 30%;
+    border: 1px solid black;
+    margin-left: 100px;
+}
+.raj4 p{
+    font-size: 15px;
+    font-family: arial;
+    margin-top: 10px;
+}
+input[type=text]{
+    border: none;
+    border-bottom: 2px solid black;
+
+}
+#suni{
+    height: 1000px;
+    width: 700px;
+    background-color: blanchedalmond;
+    margin-right: 15%
+    ;
+}
+#ab{
+    text-align:right;
+    padding: 50px;
+}
+#C{
+    text-align:left;
+}
+#D{
+    border: 20px solid black;
+}
+table,
+    tr,
+    th,
+    td{
+        border: 1px solid black;
+        border-collapse:collapse;
+    }
